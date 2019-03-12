@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions>
+<questions>
+	<question>
+		<type>text</type>
+		<title>¿Cual es el  verdader nombre de Cecilio G?</title>
+		<answer>Juan Cecilia</answer>
+	</question>
+	<question>
+		<type>text</type>
+		<title>¿Cual es el helado favorito de Cecilio G?</title>
+		<answer>Dulce de leche</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿Con que nombre se conoce a Cecilio G en el mundo del grafitti?</title>
+		<option>Joa</option>
+		<option>Ceci</option> 
+		<option>Godzilla</option>
+		<option>Amarillo</option>
+		<answer>0</answer> 
+	</question>
+	<question>
+		<type>select</type>
+		<title>Termina el estribillo: Dame un cigarrito que me comen los nervios...</title>
+		<option>Crustaceo</option>
+		<option>Espacio</option> 
+		<option>Despacio</option>
+		<option>Papa</option>
+		<answer>2</answer> 
+	</question>		 
+	<question>
+		<type>multiple</type>
+		<title>¿Con cual de estos artistas a tenido beef Cecilio G? </title>
+		<option>Pimp Flaco</option>
+		<option>Yung Beef</option> 
+		<option>Mr Neo</option> 
+		<option>Pawn Gang</option>
+		<answer>0</answer>
+		<answer>1</answer>
+		
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>¿Que significado tiene la "G" de Cecilio G?</title>
+		<option>Godzilla</option>
+		<option>Grosero</option> 
+		<option>Gracioso</option> 
+		<option>Gordo</option>
+		<answer>0</answer>
+		<answer>1</answer>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>¿A que generos musicales pertenece su nuevo albúm "Padre problematico"? </title>
+		<option>Punk</option>
+		<option>Rap</option> 
+		<option>Trap</option> 
+		<option>Rock</option>
+		<answer>0</answer>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>¿En que medio o medios ha sido entrevistado cecilio G?</title>
+		<option>El bloque</option>
+		<option>El pais</option> 
+		<option>New York Times</option> 
+		<option>El mundo</option>
+		<answer>0</answer>
+		<answer>1</answer>
+	</question>
+	<question >
+		<type>radio</type>
+		<title> Cecilio G nació en el año...</title>
+		<option>1998</option>
+		<option>1997</option> 
+		<option>1996</option> 
+		<option>1995</option>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>¿Cuantos albumes a sacado Cecilio G?</title>
+		<option>2</option>
+		<option>10</option> 
+		<option>14</option> 
+		<option>6</option>
+		<answer>2</answer>		  
+	</question>		 
+</questions>			
